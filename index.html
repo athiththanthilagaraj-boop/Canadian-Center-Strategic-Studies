@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Canadian Center For Strategic Studies</title>
+<meta name="description" content="Independent, student-led research on defence policy, strategy, and international security. Published analysis, interviews, and a forthcoming academic journal.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 fill=%22%2310192B%22/><text x=%2250%22 y=%2266%22 font-size=%2258%22 fill=%22%23A9782C%22 text-anchor=%22middle%22 font-family=%22Georgia,serif%22>C</text></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- ============================== NAV ============================== -->
+<nav class="site-nav">
+  <div class="wrap">
+    <a href="#top" class="wordmark">
+      <span class="full" id="wordmark-full"></span>
+      <span class="sub" id="wordmark-sub"></span>
+    </a>
+    <ul class="nav-links" id="nav-links"></ul>
+    <a href="#submissions" class="nav-cta">Submit your work</a>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+  <div class="mobile-panel" id="mobile-panel"></div>
+</nav>
+
+<!-- ============================== HERO ============================== -->
+<header class="hero" id="top">
+  <svg class="hero-contours" viewBox="0 0 1200 500" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M-50,120 C 200,60 400,180 700,100 S 1100,40 1250,110" stroke="#A9782C" stroke-width="1" fill="none" opacity="0.5"/>
+    <path d="M-50,190 C 220,140 420,240 720,170 S 1080,110 1250,180" stroke="#FBFBF9" stroke-width="1" fill="none" opacity="0.25"/>
+    <path d="M-50,260 C 240,220 460,300 740,240 S 1060,190 1250,250" stroke="#FBFBF9" stroke-width="1" fill="none" opacity="0.18"/>
+    <path d="M-50,330 C 260,300 480,360 760,310 S 1040,270 1250,320" stroke="#FBFBF9" stroke-width="1" fill="none" opacity="0.12"/>
+    <path d="M-50,400 C 280,380 500,420 780,380 S 1020,350 1250,390" stroke="#FBFBF9" stroke-width="1" fill="none" opacity="0.08"/>
+  </svg>
+  <div class="wrap">
+    <div class="hero-meta">
+      <span class="eyebrow" id="hero-eyebrow"></span>
+      <span class="coords" id="hero-coords"></span>
+    </div>
+    <h1 id="hero-heading"></h1>
+    <p class="hero-sub" id="hero-sub"></p>
+    <div class="hero-ctas" id="hero-ctas"></div>
+    <div class="stat-strip">
+      <div>
+        <div class="stat-num"><span id="stat-pubs"></span></div>
+        <div class="stat-label">Published Pieces</div>
+      </div>
+      <div>
+        <div class="stat-num"><span id="stat-team"></span></div>
+        <div class="stat-label">Contributing Analysts</div>
+      </div>
+      <div>
+        <div class="stat-num" id="stat-location" style="font-size:20px;"></div>
+        <div class="stat-label">Based In</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- ============================== PUBLICATIONS ============================== -->
+<section id="publications">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">Recent Publications</span>
+        <h2>Analysis worth your time.</h2>
+      </div>
+      <p>Short-form pieces from our analysts and contributors, filed as they're published — newest first.</p>
+    </div>
+    <div class="pub-grid" id="pub-grid"></div>
+  </div>
+</section>
+
+<!-- ============================== PROGRAMS ============================== -->
+<section id="programs" style="padding-top:0;">
+  <div class="wrap">
+    <div class="programs-grid" id="programs-grid"></div>
+  </div>
+</section>
+
+<!-- ============================== ABOUT / MISSION ============================== -->
+<section class="about-section" id="about">
+  <div class="wrap about-grid">
+    <div>
+      <span class="eyebrow">Who We Are</span>
+      <h2 id="mission-heading"></h2>
+    </div>
+    <div class="mission-copy" id="mission-copy"></div>
+  </div>
+</section>
+
+<!-- ============================== TEAM ============================== -->
+<section id="team">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">The People</span>
+        <h2>Our team.</h2>
+      </div>
+      <p>Scholars, professionals, and student researchers from a range of backgrounds.</p>
+    </div>
+    <div class="team-grid" id="team-grid"></div>
+  </div>
+</section>
+
+<!-- ============================== SUBMISSIONS ============================== -->
+<section id="submissions">
+  <div class="wrap">
+    <div class="section-head">
+      <div>
+        <span class="eyebrow">For Prospective Contributors</span>
+        <h2 id="submissions-heading"></h2>
+      </div>
+      <p id="submissions-intro"></p>
+    </div>
+    <div class="submissions-grid">
+      <div>
+        <ul class="rule-list" id="rule-list"></ul>
+        <p class="note-box" id="submissions-note"></p>
+      </div>
+      <div class="contrib-box">
+        <h3>For our contributors</h3>
+        <ul id="contrib-list"></ul>
+        <a class="email-cta" id="email-cta" href="#"></a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================== FOOTER ============================== -->
+<footer>
+  <div class="wrap">
+    <div class="footer-top">
+      <div>
+        <div class="footer-word" id="footer-word"></div>
+        <div class="footer-addr" id="footer-addr"></div>
+      </div>
+      <div class="footer-links">
+        <div class="footer-col">
+          <h4>Navigate</h4>
+          <div id="footer-links-col"></div>
+        </div>
+        <div class="footer-col">
+          <h4>Contact</h4>
+          <a href="mailto:catherinedemontigny.ccss@gmail.com">Email us</a>
+          <a href="#submissions">Submission guidelines</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span id="footer-year"></span> <span id="footer-name"></span>. All rights reserved.</span>
+      <span>Independent · Non-partisan · Student-led</span>
+    </div>
+  </div>
+</footer>
+
+<script src="content.js"></script>
+<script src="main.js"></script>
+</body>
+</html>
