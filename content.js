@@ -89,8 +89,8 @@ const SITE = {
       excerpt:
         "The foundation of realism is that countries will act in a rational manner — an assumption that makes predictions seem simpler than reality allows. As seen at the outset of the Russia-Ukraine war, many analysts wrongly assumed Russia would be more successful; understanding how rationality differs across regimes helps explain seemingly incomprehensible decisions, including a possible Chinese move on Taiwan.",
       sourceUrl: "https://canadian-center-for-strategic-studies.webnode.page/l/this-is-a-blog-post-with-images4/",
-      heroImage: "",
-      imageCredit: "",
+      heroImage: "https://f308187579.cbaul-cdnwnd.com/ff7ffd2c4a52ea9ed8f444345ce69c0c/200000028-de9d9de9db/gettyimages-2152598650.webp?ph=f308187579",
+      imageCredit: "Getty Images",
       body: [
         "The foundation of realism is that countries will act in a rational manner. This is an assumption that makes predictions seem simpler than reality allows us. Seen from this perspective, actions can seem incomprehensible, and predictions can be erroneous. As seen at the beginning of the Russia-Ukraine war (2022), many analysts wrongly assumed Russia would be more successful. Considering the differences in rational thinking from one regime to another can help better understand such seemingly irrational actions. Understanding the context of the decisions made is necessary and can inform future considerations, such as a Chinese attack on Taiwan.",
         "As Russia was starting to build up troops near the Ukrainian border in the fall of 2021, analysts were repeatedly asked if Putin would order an advance into Ukraine. Noting the significant amount of resources needed for a full-scale invasion, the possibility that Ukraine would benefit from the strong support of Western countries, and the implications of a possible strong Ukrainian resistance made the idea of a tentative full-scale invasion a quite risky and seemingly irrational choice for Putin.",
