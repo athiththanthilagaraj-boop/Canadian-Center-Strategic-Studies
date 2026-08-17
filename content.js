@@ -113,8 +113,8 @@ const SITE = {
       excerpt:
         "Social movements have long been both successful and unsuccessful responses to domestic corruption. What remains an oddity is why successful revolutions and peaceful uprisings so often leave a negative or nonexistent long-term impact on the states they sought to reform.",
       sourceUrl: "https://canadian-center-for-strategic-studies.webnode.page/l/this-is-a-simple-blog-post6/",
-      heroImage: "",
-      imageCredit: "",
+      heroImage: "https://f308187579.cbaul-cdnwnd.com/ff7ffd2c4a52ea9ed8f444345ce69c0c/200000015-04f5704f59/engin-akyurt-dKhQjKd6AP8-unsplash.webp?ph=f308187579",
+      imageCredit: "Engin Akyurt",
       body: [
         "Historically, social movements have been both successful and unsuccessful attempts to respond to domestic corruption. The purpose, strength, timing of social movements and the circumstances within which they take place are only some of the little factors that determine their success in the long run. What remains to be an oddity is why successful revolutions, peaceful protests, and collective responses to corruption left either a nonexistent or negative impact on regimes and states in the long term. Before diving in, it is important to realize that, as history has proven, social movements were often successful due to their organization, robust homogeneity, method of appeal, universal recognition, and much more. Nonetheless, such successes were often short-lived. Using examples from Egypt, this article will attempt to unravel why this is so.",
         "The 25 January Egyptian Revolution",
@@ -141,8 +141,8 @@ const SITE = {
       excerpt:
         "The war in Ukraine is being fought by Russia on two distinct fronts. The first is physical — armour, artillery, and tactical decision-making. The second, waged at home, is a constant battle for political survival among those responsible for the war.",
       sourceUrl: "https://canadian-center-for-strategic-studies.webnode.page/l/this-is-a-simple-blog-post2/",
-      heroImage: "",
-      imageCredit: "",
+      heroImage: "https://f308187579.cbaul-cdnwnd.com/ff7ffd2c4a52ea9ed8f444345ce69c0c/200000007-9dcf09dcf2/kevin-schmid-DIq7Bs3ga2s-unsplash.webp?ph=f308187579",
+      imageCredit: "Kevin Schmid",
       body: [
         "The War in Ukraine, from a Russian perspective, is being waged on two very distinct fronts. The first being the physical battle, which includes endless amounts of military equipment such as artillery, tanks, etc., as well as tactical decision making, morale and the many more aspects which determine a conflict. At home in Russia, however, there is also a constant battle for political survival being waged by all those involved in the war. We have seen the more successful and combat-tested generals such as Surovikin and Popov replaced because of their performances on the Ukrainian battlefield. This is because success on the battlefield directly attributable to generals in charge of the War in Ukraine becomes politically threatening, as it can show some leaders are more competent than others, and perhaps should have more power. This is threatening to individuals like Shoigu and Gerasimov because it could lead to a shifting political perception that the war could in fact generate greater successes if led by someone else.",
         "To the overwhelming benefit of Ukrainians, the Russian army has proven to be a very fragile institution predicated upon thievery, corruption, and a very low rate of combat effectiveness in general terms amongst its units due to its failure to properly reform. So why not replace the seemingly incompetent leaders with individuals better equipped to lead the war? Leaders such as Popov and Surovikin, who have had some measure of success in Ukraine, seem like the wiser choice. However, we must consider the reality that, while he is in fact not capable of leading a war, Shoigu is not incompetent. He remains an adept political operator who managed to acquire his position not by changing the current setting but by ensuring it. His presence as Defence Minister, while it offers no reassurances to competent generals or conscripts huddled in trenches, offers great stability and promise to individuals of the Siloviki that the army will not lead a revolution because it is too incompetent and poorly trained, while also offering corrupt and organised criminal actors, which pervade the institution, assurances that things will remain as they are.",
@@ -163,8 +163,8 @@ const SITE = {
       excerpt:
         "Argentina is the largest debtor to the IMF, owing the institution $43.4 billion — far beyond Egypt or Ukraine. Beyond the headline debt figures, this piece asks an under-examined question: does immigration improve or worsen Argentina's economic predicament, or is the effect closer to null?",
       sourceUrl: "https://canadian-center-for-strategic-studies.webnode.page/l/this-is-a-simple-blog-post5/",
-      heroImage: "",
-      imageCredit: "",
+      heroImage: "https://f308187579.cbaul-cdnwnd.com/ff7ffd2c4a52ea9ed8f444345ce69c0c/200000013-a80d3a80d6/angelica-reyes-cs9v06TuiT8-unsplash.webp?ph=f308187579",
+      imageCredit: "Angelica Reyes",
       body: [
         "Argentina currently stands as the largest debtor to the International Monetary Fund (Martin et al., 2023). It owes the institution $43.4 billion, leading far past Egypt and Ukraine. This is the first fact to be known about Argentina to begin understanding the depth of the financial crisis it faces. This analysis not only aims to articulate the causes and effects of Argentina's poor economy — as signified by the debt it currently owes to the IMF — but more particularly seeks to address the untouched factor of immigration. Does immigration improve or exacerbate the predicament in Argentina? Is the effect null?",
         "The extent of the Argentine economic crisis is so steep that Argentinian Economy Minister Sergio Massa requested a loan from China to mitigate what the country owes to the IMF — a first occurrence in the entire history of the IMF (Martin et al., 2023). The issue in question, however, is not that the IMF continues to lend money to Argentina. The issue, as one may deem obvious, is continuous unpaid debts. In 2018 and 2019, the highest-ever debt owed to the IMF was recorded at $56 billion.",
@@ -187,8 +187,8 @@ const SITE = {
       excerpt:
         "Wagner's mutiny — which began in Rostov with the group encircling the Southern Military District headquarters under Prigozhin before advancing on Voronezh — was the culmination of months of jockeying between the Wagner leadership and the Russian Ministry of Defense.",
       sourceUrl: "https://canadian-center-for-strategic-studies.webnode.page/l/this-is-a-blog-post-with-images7/",
-      heroImage: "",
-      imageCredit: "",
+      heroImage: "https://f308187579.cbaul-cdnwnd.com/ff7ffd2c4a52ea9ed8f444345ce69c0c/200000009-a8bfba8bfc/klaus-wright-qNFSOhZ_r1A-unsplash.webp?ph=f308187579",
+      imageCredit: "Klaus Wright",
       body: [
         "Wagner's mutiny, which began in Rostov with the group encircling and subsequently taking over the headquarters of Southern Military District under Prigozhin's command before proceeding to Voronezh, was the culmination of months of jabs and counter-positioning by the Wagner leader against the Russian Ministry of Defense. What Prigozhin illustrated first and foremost is that the biggest issue Russian soldiers and the general population observe is not simply their quality of life or even the conflict itself, but the seeming lack of competent leadership to generate battlefield successes.",
         "The mercenary leader's opposites, Minister of Defense Shoigu and Chief of Staff Gerasimov, have led the Ukraine war far from the front lines, only venturing close to contested territory for a few public appearances which failed to mention the considerable distance to the front lines. Prigozhin is guilty of the same attempts at boosting his legitimacy as a \"war fighter\" through public appearances and carefully crafted social media messages, aimed at garnering backing from Russian soldiers, war-bloggers, and common Russians supportive of the war.",
